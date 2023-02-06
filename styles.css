@@ -124,7 +124,7 @@ body ul {
   color: #000;
 }
 .gallery #card-1 {
-  background-image: url("../img/animais.jpg");
+  background-image: url("img/animais.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -134,10 +134,10 @@ body ul {
 .gallery #card-1:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/animais.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("animais.jpg");
 }
 .gallery #card-2 {
-  background-image: url("../img/arquitetura.jpg");
+  background-image: url("arquitetura.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -147,10 +147,10 @@ body ul {
 .gallery #card-2:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/arquitetura.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("arquitetura.jpg");
 }
 .gallery #card-3 {
-  background-image: url("../img/cidade.jpg");
+  background-image: url("cidade.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -160,7 +160,7 @@ body ul {
 .gallery #card-3:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cidade.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("cidade.jpg");
 }
 .gallery #card-4 {
   background-image: url("../img/decoracao.jpg");
@@ -173,10 +173,10 @@ body ul {
 .gallery #card-4:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/decoracao.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("decoracao.jpg");
 }
 .gallery #card-5 {
-  background-image: url("../img/esportes.jpg");
+  background-image: url("esportes.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -186,10 +186,10 @@ body ul {
 .gallery #card-5:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/esportes.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("esportes.jpg");
 }
 .gallery #card-6 {
-  background-image: url("../img/natureza.jpg");
+  background-image: url("natureza.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -199,10 +199,10 @@ body ul {
 .gallery #card-6:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("natureza.jpg");
 }
 .gallery #card-7 {
-  background-image: url("../img/paisagem.jpg");
+  background-image: url("paisagem.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -212,10 +212,10 @@ body ul {
 .gallery #card-7:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paisagem.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("paisagem.jpg");
 }
 .gallery #card-8 {
-  background-image: url("../img/pessoas.jpg");
+  background-image: url("pessoas.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -225,10 +225,10 @@ body ul {
 .gallery #card-8:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pessoas.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/pessoas.jpg");
 }
 .gallery #card-9 {
-  background-image: url("../img/refeicoes.jpg");
+  background-image: url("refeicoes.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -238,7 +238,7 @@ body ul {
 .gallery #card-9:hover {
   filter: grayscale(0%);
   background-size: 110%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("refeicoes.jpg");
 }
 
 footer {
